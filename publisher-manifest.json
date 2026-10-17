@@ -1,0 +1,74 @@
+{
+  "version": 2,
+  "template_version": "3a528c553883e59d7cfa",
+  "page_size": 20,
+  "site_id": "fd5cfa1cdeea2cc94827191f",
+  "owner": "cwcqqj",
+  "repo": "page-a7dc26bb4b46b111c50bd141",
+  "title": "马云",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "a7dc26bb4b46b111c50bd141",
+      "a": "马云",
+      "b": "",
+      "entity": "马云",
+      "brand": "马云",
+      "separator": "",
+      "path": "index.html",
+      "hash": "39f2e615d87b6289ad6598772cd047bf4a6a1d80ad3c326890087bc24c7c9f8b",
+      "content": {
+        "keyword1": "马云",
+        "keyword2": "",
+        "primary_entity": "马云",
+        "plans": [],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "马云提供可靠的流量解决方案，保障数字生活安全与便捷。",
+          "AI_DESCRIPTION": "马云提供可靠的流量解决方案，保障数字生活安全与便捷。"
+        },
+        "_brand_page": {
+          "version": 3,
+          "body": "<style>\n        :root {--bg: #111111;--text: #ffffff;--accent: #39ff14;--card-bg: #1a1a1a}\n        * {margin: 0;padding: 0;box-sizing: border-box}\n        body {background: var(--bg);color: var(--text);font-family: system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, sans-serif;line-height: 1.6;padding-bottom: 80px}\n        .nav {background: rgba(17,17,17,0.95);position: sticky;top: 0;z-index: 100;border-bottom: 1px solid #222}\n        .nav-bar {max-width: 1200px;margin: 0 auto;padding: 16px 24px;display: flex;align-items: center;justify-content: space-between}\n        .logo {font-size: 28px;font-weight: 700;color: var(--accent);letter-spacing: 2px}\n        .nav-links {display: flex;gap: 32px;font-size: 15px}\n        .nav-links a {color: var(--text);text-decoration: none;transition: color 0.3s}\n        .nav-links a:hover {color: var(--accent)}\n        .hero {height: 100vh;min-height: 620px;background: linear-gradient(to bottom, #111111, #1a1a1a);display: grid;grid-template-columns: repeat(12, 1fr);gap: 40px;align-items: center;padding: 0 24px;position: relative}\n        .hero-content {grid-column: 1 / 7;display: flex;flex-direction: column;justify-content: center;max-width: 520px}\n        .hero-quote {font-size: 28px;font-style: italic;color: var(--accent);margin-bottom: 32px;line-height: 1.3}\n        .hero-title {font-size: 4.2rem;font-weight: 700;line-height: 1.05;margin-bottom: 16px;letter-spacing: -4px}\n        .hero-subtitle {font-size: 1.35rem;opacity: 0.85;margin-bottom: 48px}\n        .hero-panel {grid-column: 8 / 13;background: #1a1a1a;border: 1px solid #222;padding: 48px 40px;height: fit-content;box-shadow: 0 0 0 1px #222}\n        .hero-panel h3 {font-size: 1.15rem;margin-bottom: 20px;color: var(--accent)}\n        .hero-features {display: flex;flex-direction: column;gap: 14px}\n        .hero-features li {font-size: 1.02rem;padding-left: 20px;position: relative}\n        .hero-features li::before {content: \"▸\";color: var(--accent);position: absolute;left: 0}\n        .main {max-width: 1200px;margin: 0 auto;padding: 0 24px}\n        .plans-section {padding: 120px 0 80px}\n        .plans-section h2 {font-size: 2.4rem;text-align: center;margin-bottom: 80px;letter-spacing: -1px}\n        .plans-table {display: grid;grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));gap: 24px}\n        .plan-card {background: var(--card-bg);border: 1px solid #222;padding: 48px 32px;border-radius: 4px;transition: transform 0.3s}\n        .plan-card:hover {transform: translateY(-8px)}\n        .plan-card.featured {border-color: var(--accent);box-shadow: 0 0 0 2px rgba(57, 255, 20, 0.15)}\n        .plan-name {font-size: 1.65rem;margin-bottom: 12px}\n        .plan-price {font-size: 2.1rem;font-weight: 700;margin-bottom: 8px}\n        .plan-annual {font-size: 1rem;opacity: 0.75;margin-bottom: 32px}\n        .plan-features {display: flex;flex-direction: column;gap: 14px}\n        .plan-features li {font-size: 1.02rem;padding-left: 18px;position: relative}\n        .plan-features li::before {content: \"▸\";color: var(--accent);position: absolute;left: 0}\n        .faq-section {padding: 100px 0 80px;background: #0f0f0f}\n        .faq-section h2 {font-size: 2.4rem;text-align: center;margin-bottom: 80px;letter-spacing: -1px}\n        .faq-grid {display: grid;grid-template-columns: repeat(auto-fit, minmax(420px, 1fr));gap: 32px}\n        .faq-item {display: flex;gap: 40px}\n        .faq-question {font-weight: 600;font-size: 1.25rem;width: 180px;flex-shrink: 0;color: var(--accent)}\n        .faq-answer {font-size: 1.05rem;opacity: 0.9;flex: 1}\n        footer {text-align: center;padding: 60px 24px 40px;font-size: 0.95rem;opacity: 0.6}\n        @media (max-width: 768px) {\n            .hero-title {font-size: 3.4rem}\n            .hero-subtitle {font-size: 1.15rem}\n            .hero-panel {padding: 32px 24px}\n            .faq-grid {grid-template-columns: 1fr}\n            .faq-question {font-size: 1.15rem;width: auto}\n        }\n    </style><nav class=\"nav\">\n        <div class=\"nav-bar\">\n            <div class=\"logo\">马云</div>\n            <div class=\"nav-links\">\n                <a href=\"#plans\">流量方案</a>\n                <a href=\"#faq\">常见问题</a>\n                <a href=\"#\">关于我们</a>\n            </div>\n        </div>\n    </nav>\n\n    <header class=\"hero\">\n        <div class=\"hero-content\">\n            <p class=\"hero-quote\">在数字世界中，每个人都应拥有自由探索信息的权利</p>\n            <h1 class=\"hero-title\">马云</h1>\n            <p class=\"hero-subtitle\">安全稳定流量方案</p>\n        </div>\n        <div class=\"hero-panel\">\n            <h3>核心优势</h3>\n            <ul class=\"hero-features\">\n                <li>每月最高300GB高速流量</li>\n                <li>支持多设备并发使用</li>\n                <li>全面解锁流媒体平台</li>\n                <li>7×24小时技术支持</li>\n            </ul>\n        </div>\n    </header>\n\n    <main class=\"main\">\n        <section class=\"plans-section\" id=\"plans\">\n            <h2>流量方案</h2>\n            <div class=\"plans-table\">\n                <div class=\"plan-card\">\n                    <div class=\"plan-name\">基础版</div>\n                    <div class=\"plan-price\">¥15/月</div>\n                    <div class=\"plan-annual\">按年付仅需 ¥150/年</div>\n                    <ul class=\"plan-features\">\n                        <li>每月100GB极速流量</li>\n                        <li>支持3台设备同时在线</li>\n                        <li>解锁基础流媒体内容</li>\n                        <li>普通线路节点池</li>\n                    </ul>\n                </div>\n                <div class=\"plan-card featured\">\n                    <div class=\"plan-name\">旗舰版</div>\n                    <div class=\"plan-price\">¥35/月</div>\n                    <div class=\"plan-annual\">按年付仅需 ¥350/年</div>\n                    <ul class=\"plan-features\">\n                        <li>每月300GB极速流量</li>\n                        <li>支持5台设备同时在线</li>\n                        <li>全节点原生流媒体解锁</li>\n                        <li>IPLC专线游戏加速</li>\n                        <li>7×24优先工单支持</li>\n                    </ul>\n                </div>\n                <div class=\"plan-card\">\n                    <div class=\"plan-name\">团队版</div>\n                    <div class=\"plan-price\">¥85/月</div>\n                    <div class=\"plan-annual\">按年付仅需 ¥850/年</div>\n                    <ul class=\"plan-features\">\n                        <li>每月1000GB极速流量</li>\n                        <li>支持20台设备同时在线</li>\n                        <li>VIP专属高带宽节点</li>\n                        <li>支持企业定制路由</li>\n                        <li>专属客户经理服务</li>\n                    </ul>\n                </div>\n            </div>\n        </section>\n\n        <section class=\"faq-section\" id=\"faq\">\n            <h2>常见问题</h2>\n            <div class=\"faq-grid\">\n                <div class=\"faq-item\">\n                    <div class=\"faq-question\">马云支持哪些设备？</div>\n                    <div class=\"faq-answer\">马云支持手机、平板、电脑等多种设备连接，详情请查看套餐说明。</div>\n                </div>\n                <div class=\"faq-item\">\n                    <div class=\"faq-question\">如何获取更多流量？</div>\n                    <div class=\"faq-answer\">每月流量额度在套餐中已明确说明，超出部分可联系客服处理。</div>\n                </div>\n                <div class=\"faq-item\">\n                    <div class=\"faq-question\">是否提供退款服务？</div>\n                    <div class=\"faq-answer\">马云提供7天无理由退款机制，请在首次使用后7天内提出申请。</div>\n                </div>\n                <div class=\"faq-item\">\n                    <div class=\"faq-question\">线路节点支持哪些地区？</div>\n                    <div class=\"faq-answer\">基础版提供普通全球节点，旗舰版和团队版包含IPLC专线加速节点。</div>\n                </div>\n            </div>\n        </section>\n    </main>\n\n    <footer>\n        <p>© 2024 马云 流量解决方案 保留所有权利</p>\n    </footer>",
+          "hash": "69e1d492b6d2d4e1b1c5bfcbc7507c2cdb2ed3019cfd023b0b30029d37969394",
+          "seo": {
+            "title": "马云 - 安全稳定流量方案",
+            "keywords": "马云 VPN, 高速流量, 安全上网, 流量方案",
+            "description": "马云提供可靠的流量解决方案，保障数字生活安全与便捷。"
+          },
+          "provider": "grok",
+          "model": "grok-4.6",
+          "design": {
+            "no": "1410",
+            "hero": "3 杂志式多栏网格配引言",
+            "palette": "1 墨黑配荧光绿",
+            "nav": "1 顶部细横条",
+            "card": "1 无边框仅靠留白分隔",
+            "plans_view": "1 横向对比表格",
+            "faq_view": "1 双栏问答",
+            "tone": "1 冷静克制的说明书口吻",
+            "order": "首屏优先，其余区块由 AI 根据已选构图和信息关系安排"
+          }
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "sj-mk.cn",
+    "host": "p-6eebb72299.sj-mk.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "f48453efad0a42ccc28af11f96176ea0d2ce31267a6e5536fccd45c7337a05eb",
+    "sitemap.xml": "c0ade2498a9363fac638c1219b18445463f606f07840954218411eef6a546b1e",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "91c92e48c2a9feabb9105699a1fbbc6f4411ff9d2875cf6f412afce31ece39c8",
+    "robots.txt": "8d4f3a80f851bbb18ed6eabc61e8f81f4a0dddfacd8ac02ce0b6bb03c58942f9",
+    "3de6c86cef7d406a270cdd96980c3360.txt": "c506dcd112e1b3873d48d4566940bd959f195a234c5f7d0900427e238b159495"
+  },
+  "revision": "43322cdd86950d2e49dce2944d40a779f87fa5b9b59b41a85fbe00cffe7660e7"
+}
